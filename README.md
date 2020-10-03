@@ -7,10 +7,11 @@ It follows the docs of [Initiate Transaction API](https://developer.paytm.com/do
 
 The HTTP request should contain Paytm Merchant ID - MID, ORDER_ID, TXN_Amount, Customer ID, mode.
 
-Params | Type | Required
-MID | String | Yes
-ORDER_ID | String | Yes
-TXN_AMOUNT | String | Yes
-CUST_ID | String | Yes
-CALLBACK_URL | String | Optional
-mode | String | Optional
+| Params | Type | Required |
+|---	 |---	|---	   |	
+| MID | String | Yes |
+| ORDER_ID | String | Yes |
+| TXN_AMOUNT | String | Yes |
+| CUST_ID | String | Yes |
+| CALLBACK_URL | String | Optional |
+| mode | String | Optional |

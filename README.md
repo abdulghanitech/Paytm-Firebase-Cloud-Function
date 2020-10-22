@@ -1,5 +1,5 @@
 # Paytm-Firebase-Cloud-Function
-A Production Ready Firebase cloud function to handle Paytm Transaction Token Generation
+###A Production Ready Firebase cloud function to handle Paytm Transaction Token Generation
 
 Just make a HTTP request from the client side and receive a Paytm Transaction Token.
 
